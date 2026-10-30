@@ -120,3 +120,5 @@ p{margin:0}
 .faq[open] summary::after{content:"\2212"}
 .faq[open]{border-color:var(--gold);background:var(--gold-soft)}
 .faq p{padding:0 .8rem .75rem;margin:0}
+.bigpic{margin-top:.9rem;padding:.9rem;border:1px solid var(--gold);border-radius:.9rem;background:var(--gold-soft)}
+.bigpic h3{margin:0 0 .35rem;font-size:1.02rem}
