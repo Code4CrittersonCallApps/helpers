@@ -100,3 +100,16 @@ p{margin:0}
 .q-fb p{margin:.3rem 0 .7rem}
 .q-end{text-align:center}
 .q-score{font-family:var(--display);font-size:2.4rem;color:var(--accent);line-height:1.1;margin-bottom:.3rem}
+.qz-tabs{display:grid;gap:.45rem;margin:.6rem 0 .8rem}
+.qz-tab{display:flex;align-items:center;gap:.65rem;width:100%;text-align:left;padding:.7rem;border-radius:.85rem;border:1px solid var(--border);background:var(--surface-2);color:var(--fg)}
+.qz-tab b{display:block;font-size:.92rem}
+.qz-tab small{display:block;font-size:.74rem;color:var(--muted)}
+.qz-e{font-size:1.4rem;flex:none}
+.qz-tab.is-on{border-color:var(--gold);background:var(--gold-soft)}
+.qz-tab.is-pass small{color:var(--ok)}
+.qz-reward{text-align:center;padding:1rem;border-radius:1rem;border:2px solid var(--gold);background:linear-gradient(145deg,rgba(201,162,39,.25),#1c1a16);margin-bottom:.8rem}
+.qz-reward h3{font-family:var(--display);font-size:1.25rem!important;color:var(--accent)!important;margin:.3rem 0!important}
+.qz-big{font-size:2.4rem}
+.qz-name{display:block;text-align:left;font-size:.8rem;color:var(--muted);margin:.6rem 0 .3rem}
+.qz-name input{display:block;width:100%;margin-top:.25rem;padding:.7rem;border-radius:.7rem;border:1px solid var(--gold);background:var(--surface);color:var(--fg);font-size:1rem;font-family:var(--font)}
+.q-end .btn{margin-top:.5rem}
