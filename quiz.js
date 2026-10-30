@@ -147,6 +147,12 @@
       q("🧼 A parent asks: \"Are they safe and clean?\"",
         ["\"I think so?\"", "\"They're animals, what do you expect.\"", "\"They're our family animals, cared for every day on our farm. We're insured, and like any farm visit, wash up after petting.\""],
         2, "Calm and confident gives parents peace of mind. If they have a real concern, get Michael or Ann-Marie on the phone."),
+      q("📣 A parent asks: \"I never see your ads. Why not?\"",
+        ["\"We can't afford them.\"", "\"Ads are a scam.\"", "\"We barely pay for ads. We put that energy into giving instead, and we try to give at least twice as much as we receive.\""],
+        2, "Giving is a big part of who we are. Say it with pride, and never knock anyone else's marketing."),
+      q("🌿 A guest asks: \"Can I really take one of these plants home?\"",
+        ["\"Sure, but only if you do something for us first.\"", "\"No, those are for sale only.\"", "\"Yes! We grew and divided them, so we have plenty to share. For a really big one, we might ask a small donation.\""],
+        2, "Gifts are gifts. Never ask for anything in return. If they ask about a big plant or a donation, Michael or Ann-Marie can sort it out."),
       q("😕 A host says: \"This isn't what we paid for.\"",
         ["Argue your side.", "Promise them a refund.", "\"I hear you. Let me get Michael or Ann-Marie on the phone so they can make it right.\""],
         2, "Complaints go to us, every time. Stay kind, don't promise anything, and call.")
